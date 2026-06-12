@@ -25,12 +25,14 @@ Slide decks and workshop materials from conference talks, meetups, and workshops
 | 2019 | HW/SW Meetup | Shellcode | [PDF](meetups/hwswmeetup2019-shellcode.pdf) |
 | 2026 | Claude Community | AI-Native Security | [PDF](meetups/claudecommunity-ainativesecurity.pdf) |
 | 2026 | IAPP | Rise of the Naïve Machine | [PDF](meetups/iapp2026-riseofnaivemachine.pdf) |
+| 2026 | Claude Community Meetup | AI-Native Security in Software Development | [PDF](meetups/2026-claudecommunity-ainativesecurity.pdf) |
+| 2026 | Exatone | Making my on video synthesizer | [PDF](meetups/2026-exatone01-videosynth-bitmoire.pdf) |
 
 ## Workshops
 
-| Workshop | File |
-|----------|------|
-| ASS — Generative Music with Ableton Live | [ZIP](workshops/ASS-GenerativeWorkshop.zip) |
+| Year | Event | Workshop | Files |
+|------|-------|----------|------|
+| 2024 | ASS Budapest | Generative Music with Ableton Live 12 | [ZIP](workshops/ASS-GenerativeWorkshop.zip) |
 
 ## License
 
