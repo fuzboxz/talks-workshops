@@ -17,6 +17,7 @@ Slide decks and workshop materials from conference talks, meetups, and workshops
 | 2022 | How to Kickstart a Security Program | [PDF](hacktivity/hacktivity2022-howtokickstartsecurityprogram.pdf) |
 | 2023 | Beyond Fun and Games | [PDF](hacktivity/hacktivity2023-beyondfunandgames.pdf) |
 | 2025 | Big Software Supply Chain Security | [PDF](hacktivity/hacktivity2025-bigsoftwaresupplychainsecurity.pdf) |
+| 2026 | From Trash to Tensors | [PDF](hacktivity/hacktivity2026-trashtotensors.pdf)|
 
 ## Meetups & Other Events
 
